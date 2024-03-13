@@ -57,8 +57,12 @@ Practica DAM 1º y 2º – Lista facturas MVC KOTLIN
     -   https://github.com/Juanma-Gutierrez/ProyectoViewnextKotlin
 -   Video de uso de la aplicación final
     -   https://github.com/Juanma-Gutierrez/Presentacion-Dual-2DAM/blob/main/videos/Video%20Facturas.mp4
-
-
+ 
+![312223849-e8c06d67-6b4c-4f0b-a277-9300d67ab302](https://github.com/Juanma-Gutierrez/Presentacion-Dual-2DAM/assets/101201349/6d30829c-f4b3-4e42-b81e-aa69ec72d390)
+![312223875-09e10fc7-0d93-4bd5-b86b-11c407713f03](https://github.com/Juanma-Gutierrez/Presentacion-Dual-2DAM/assets/101201349/eed6fd9b-8f5f-4b88-970b-e503ab5e64b8)
+![312223924-6aa55364-145f-4d6e-9744-52125a2407dd](https://github.com/Juanma-Gutierrez/Presentacion-Dual-2DAM/assets/101201349/1d73710a-23f9-4b48-ab35-6a93b1d2d1e8)
+![312223949-2b98b7fe-0f1d-422e-89d2-8724ff4fc5a4](https://github.com/Juanma-Gutierrez/Presentacion-Dual-2DAM/assets/101201349/dad1d067-62cb-4981-b369-725e2728e4c6)
+![312223990-806ee0a6-0289-4126-88de-8714547bfcbb](https://github.com/Juanma-Gutierrez/Presentacion-Dual-2DAM/assets/101201349/44190632-57c2-4c58-a610-28f802a2c969)
 
 ---
 
@@ -76,7 +80,11 @@ Creación de un juego en iOS, con Xcode y Swift, en el que hay que intentar acer
 -   Video de uso de la aplicación iOS Bull's Eye
     -   https://github.com/Juanma-Gutierrez/Presentacion-Dual-2DAM/blob/main/videos/Video%20BullsEye.mp4
 
-
+![312223365-b6460f93-1b6e-4a45-947b-826b3a71d3d0](https://github.com/Juanma-Gutierrez/Presentacion-Dual-2DAM/assets/101201349/d2ca3c2f-b30f-4eaa-bd59-fcbfec713ecd)
+![312223576-91249abc-3066-49ac-b6ed-b5ff62e5cd38](https://github.com/Juanma-Gutierrez/Presentacion-Dual-2DAM/assets/101201349/877f8a2e-0eb8-464d-a413-ea6693763145)
+![312223607-b8f56fc2-1ae2-44ff-9ffb-d4c441b0fea3](https://github.com/Juanma-Gutierrez/Presentacion-Dual-2DAM/assets/101201349/bb25d86c-a403-4e14-b591-41e92df3f1f1)
+![312223643-157048e9-dca2-4c43-82bb-980a903159a4](https://github.com/Juanma-Gutierrez/Presentacion-Dual-2DAM/assets/101201349/c505b39a-742d-4179-8c40-b88b4103483d)
+![312223677-9759d8ac-8e7d-4822-8789-cd5d16bdc6dc](https://github.com/Juanma-Gutierrez/Presentacion-Dual-2DAM/assets/101201349/cc46e56c-7034-4fcf-923a-37f4b89b614c)
 
 ---
 
@@ -91,10 +99,11 @@ Creación de una aplicación en iOS, Xcode y Swift en la que se puede grabar una
 -   Repositorio
     -   https://github.com/Juanma-Gutierrez/Pitch-Perfect
 -   Video de uso de la aplicación iOS Pitch Perfect
-
     -   https://github.com/Juanma-Gutierrez/Presentacion-Dual-2DAM/blob/main/videos/Video%20PitchPerfect.mp4
 
-
+![312224081-e4242edf-8bca-408d-959d-7bc88b3de098](https://github.com/Juanma-Gutierrez/Presentacion-Dual-2DAM/assets/101201349/3e7c82dc-8876-463f-a04b-e2de65827d29)
+![312224113-517c7bb6-43b0-4141-82db-8a8c62e2250c](https://github.com/Juanma-Gutierrez/Presentacion-Dual-2DAM/assets/101201349/18a87127-3092-4859-a839-3f21ed498d4a)
+![312224147-b12f504f-a11a-43d7-9da5-5b9ee6319ca1](https://github.com/Juanma-Gutierrez/Presentacion-Dual-2DAM/assets/101201349/c0841aa7-deab-4f02-94ff-6ff79f2c376f)
 
 ---
 
