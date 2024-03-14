@@ -106,7 +106,12 @@ Creación de una aplicación en iOS, Xcode y Swift en la que se puede grabar una
 ![312224147-b12f504f-a11a-43d7-9da5-5b9ee6319ca1](https://github.com/Juanma-Gutierrez/Presentacion-Dual-2DAM/assets/101201349/c0841aa7-deab-4f02-94ff-6ff79f2c376f)
 
 ---
+# Presentación en formato Google Slides
 
+- https://docs.google.com/presentation/d/11bTC3WeKzvISnqmMHRO2JnurJZ1FemqOFR9Gk_InfU8
+
+---
+  
 # Presentación en formato PDF
 
 - https://github.com/Juanma-Gutierrez/Presentacion-Dual-2DAM/blob/main/documentacion/Presentaci%C3%B3n%20Dual%20Viewnext%202%C2%BA%20DAM.pdf
