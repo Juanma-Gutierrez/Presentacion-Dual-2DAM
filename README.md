@@ -110,3 +110,4 @@ Creación de una aplicación en iOS, Xcode y Swift en la que se puede grabar una
 # Presentación en formato PDF
 
 - https://github.com/Juanma-Gutierrez/Presentacion-Dual-2DAM/blob/main/documentacion/Presentaci%C3%B3n%20Dual%20Viewnext%202%C2%BA%20DAM.pdf
+- https://github.com/Juanma-Gutierrez/Presentacion-Dual-2DAM/blob/main/documentacion/Presentacion%20Empresa%20Viewnext%202024.pdf
